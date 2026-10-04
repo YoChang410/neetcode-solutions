@@ -1,3 +1,7 @@
+'''
+https://neetcode.io/problems/search-for-word/history?list=blind75&submissionIndex=0
+'''
+
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         self.board = board
